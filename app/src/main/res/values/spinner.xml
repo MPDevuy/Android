@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>Categoría</item>
+        <item>Administración</item>
+        <item>Albañilería</item>
+        <item>Cerrajería</item>
+        <item>Dermatología</item>
+        <item>Electricidad</item>
+        <item>Fisioterapia</item>
+        <item>Jardinería</item>
+        <item>Limpieza</item>
+        <item>Masajes</item>
+        <item>Nutrición</item>
+        <item>Odontología</item>
+        <item>Peluquería</item>
+        <item>Psicología</item>
+        <item>Sanitaria</item>
+    </string-array>
+
+    <string-array name="departamento_array">
+        <item>Departamento</item>
+        <item>Artigas</item>
+        <item>Canelones</item>
+        <item>Cerro Largo</item>
+        <item>Colonia</item>
+        <item>Durazno</item>
+        <item>Flores</item>
+        <item>Florida</item>
+        <item>Lavalleja</item>
+        <item>Maldonada</item>
+        <item>Montevideo</item>
+        <item>Paysandú</item>
+        <item>Rio Negro</item>
+        <item>Rivera</item>
+        <item>Rocha</item>
+        <item>Salto</item>
+        <item>San José</item>
+        <item>Soriano</item>
+        <item>Tacuarembó</item>
+        <item>Treinta y tres</item>
+
+
+    </string-array>
+</resources>

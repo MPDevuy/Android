@@ -11,9 +11,9 @@ public class GalleryViewModel extends ViewModel {
     public GalleryViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("Búsqueda de Profesionales y Servicios");
-    }
 
-    public LiveData<String> getText() {
-        return mText;
+   }
+
+    public LiveData<String> getText() { return mText;
     }
 }
