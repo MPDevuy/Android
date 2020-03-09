@@ -17,6 +17,6 @@
     <string name="menu_send">Send</string>
 
     <string name="buscar">Buscar</string>
-    <string name="direccion">Ingrese su dirección</string>
-    <string name="elegir">Ingrese su dirección o búsque por su ubicación</string>
+    <string name="direccion">Ingresar zona</string>
+    <string name="elegir">Ingrese su zona o búsque por su ubicación</string>
 </resources>
