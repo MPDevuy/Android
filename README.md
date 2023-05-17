@@ -23,5 +23,6 @@ Filtrar búsqueda por espacio geográfico: El usuario podrá especificar en su b
 
 ![App](https://github.com/MPDevuy/Android/assets/61568369/0a8671f9-c0c0-414d-9859-9b83ac07d71d)
 
+![Mapa](https://github.com/MPDevuy/Android/assets/61568369/f0c35b80-a34b-405d-ad06-f7fd7d99c307)
 
 
