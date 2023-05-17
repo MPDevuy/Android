@@ -9,6 +9,7 @@ public class GalleryViewModel extends ViewModel {
     private MutableLiveData<String> mText;
 
     public GalleryViewModel() {
+
         mText = new MutableLiveData<>();
         mText.setValue("Búsqueda de Profesionales y Servicios");
 

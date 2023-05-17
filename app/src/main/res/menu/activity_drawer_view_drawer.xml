@@ -13,6 +13,11 @@
             android:icon="@drawable/ic_menu_send"
             android:title="@string/menu_servicios" />
         <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Mapa" />
+
+        <item
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_send"
             android:title="@string/menu_acercade" />
@@ -20,6 +25,10 @@
             android:id="@+id/nav_tools"
             android:icon="@drawable/ic_menu_send"
             android:title="@string/menu_contacto" />
+        <item
+            android:id="@+id/nav_resultados"
+            android:icon="@drawable/ic_menu_resultados"
+            android:title="@string/resultadosmenu" />
     </group>
 
     <item android:title="V3.20">

@@ -19,4 +19,10 @@
     <string name="buscar">Buscar</string>
     <string name="direccion">Ingresar zona</string>
     <string name="elegir">Ingrese su zona o búsque por su ubicación</string>
+    <string name="resultados">Resultados barberías en Buceo</string>
+    <string name="resultado1">Barbería Manuela</string>
+    <string name="resultado2">Barbería Juanse</string>
+    <string name="servicio">Lavado de cabello,cortes en general,todas las edades</string>
+    <string name="servicio2">Cortes en general</string>
+    <string name="resultadosmenu">Resultados</string>
 </resources>

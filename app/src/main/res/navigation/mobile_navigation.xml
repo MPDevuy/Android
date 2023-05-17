@@ -16,6 +16,11 @@
         android:name="com.SM.sm.ui.gallery.GalleryFragment"
         android:label="@string/menu_servicios"
         tools:layout="@layout/fragment_gallery" />
+    <fragment
+        android:id="@+id/nav_mapa"
+        android:name="com.SM.sm.ui.gallery.GalleryFragment"
+        android:label="@string/menu_acercade"
+        tools:layout="@layout/activity_maps" />
 
     <fragment
         android:id="@+id/nav_slideshow"
@@ -40,4 +45,5 @@
         android:name="com.SM.sm.ui.send.SendFragment"
         android:label="@string/menu_send"
         tools:layout="@layout/fragment_send" />
+
 </navigation>
